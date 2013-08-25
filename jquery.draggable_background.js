@@ -1,7 +1,7 @@
 /**
  * Draggable Background plugin for jQuery
  *
- * v1.1.0
+ * v1.1.1
  *
  * Copyright (c) 2012 Kenneth Chung
  *
