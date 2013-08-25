@@ -25,6 +25,27 @@ A jQuery plugin to make background images draggable.
     <td></td>
     <td>If specified, restrict dragging along x or y axis.</td>
   </tr>
+  <tr>
+    <td>beforeDrag</td>
+    <td>Function</td>
+    <td>function($element) {}</td>
+    <td></td>
+    <td>Called before the mouse starts dragging.</td>
+  </tr>
+  <tr>
+    <td>onDrag</td>
+    <td>Function</td>
+    <td>function($element) {}</td>
+    <td></td>
+    <td>Called when the background is being dragged.</td>
+  </tr>
+  <tr>
+    <td>finishDrag</td>
+    <td>Function</td>
+    <td>function($element) {}</td>
+    <td></td>
+    <td>Called when the mouse is released from dragging.</td>
+  </tr>
 </table>
 
 ## Usage
